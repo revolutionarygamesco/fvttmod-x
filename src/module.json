@@ -1,7 +1,7 @@
 {
-  "id": "revolutionarygames-fvttmodstarter",
-  "title": "Foundry VTT Module Starter",
-  "description": "",
+  "id": "revolutionary-x",
+  "title": "Revolutionary X",
+  "description": "An implementation of the X-Card by John Stavropoulos for Foundry VTT.",
   "version": "#{VERSION}#",
   "compatibility": {
     "minimum": "13",

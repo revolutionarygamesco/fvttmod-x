@@ -1,6 +1,6 @@
 {
-  "name": "fvttmod-starter",
-  "private": true,
+  "name": "@revolutionarygamesco/fvttmod-x",
+  "description": "An implementation of the X-Card by John Stavropoulos for Foundry VTT.",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
